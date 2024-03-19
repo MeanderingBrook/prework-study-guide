@@ -1,4 +1,6 @@
-## Repository Management:
+## Repository Management
+
+### Branch Management
 
 1. Confirm **Status** of Repository
 	
@@ -36,6 +38,14 @@
 9. View Repository in GitHub, Compare & Pull Request
 
 10. Open and Complete a Pull Request
+
+
+### Git Commands
+
+**List All Files** under named Branch
+
+	`git ls-tree -r master --name-only`
+
 
 
 ## JavaScript:
