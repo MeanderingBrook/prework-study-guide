@@ -1,5 +1,10 @@
 body {
+    font: 1.2em "Firma Sans", sans-serif;
 
+}
+
+footer {
+    font: .6em "Firma Sans", sans-serif;
 }
 
 h1 {
