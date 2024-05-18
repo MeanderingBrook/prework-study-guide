@@ -1,14 +1,63 @@
+* {
+    /* margin: 10; */
+    /* padding: 0; */
+}
+
 body {
     font: 1.2em "Firma Sans", sans-serif;
 
 }
 
+header {
+    font: "Firma Sans", sans-serif;
+    width: 100%;
+    /* height: 120px; */
+    /* background-color: darkblue; */
+    /* color: white; */
+
+}
+
 footer {
-    font: .6em "Firma Sans", sans-serif;
+    font: .8em "Firma Sans", sans-serif;
+    width: 100%;
+    height: 50px;
+    background-color: darkblue;
+    color: white;
+}
+
+p {
+    text-align: center;
+    font-size: 30px;
+}
+
+img {
+    display: block;
+    /* height: 50px; */
+    /* width: 50px; */
+    margin-left: auto;
+    margin-right: auto;
 }
 
 h1 {
+    text-align: center;
     color: red;
+}
+
+h2 {
+    text-align: center;
+    color: darkblue
+}
+
+ul {
+    padding-left: 40px;
+    /* font-size: 20px; */
+}
+
+.card {
+    /* width: 80px; */
+    margin: 40px auto;
+    border: 5px solid lightblue;
+    box-shadow: 5px 10px darkblue;
 }
 
 #page_header {
