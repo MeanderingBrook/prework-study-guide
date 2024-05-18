@@ -19,15 +19,16 @@ header {
 
 footer {
     font: .8em "Firma Sans", sans-serif;
-    width: 100%;
+    width: 98%;
     height: 50px;
+    padding-left: 20px;
     background-color: darkblue;
     color: white;
 }
 
 p {
-    text-align: center;
-    font-size: 30px;
+    /* text-align: center; */
+    /* font-size: 30px; */
 }
 
 img {
